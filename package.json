@@ -1,0 +1,27 @@
+{
+  "name": "solartis",
+  "version": "1.0.0",
+  "description": "Solartis API NodeJS wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbonoz/solartis-node.git"
+  },
+  "keywords": [
+    "solartis",
+    "nodejs",
+    "wrapper"
+  ],
+  "author": "Chris Buonocore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbonoz/solartis-node/issues"
+  },
+  "homepage": "https://github.com/cbonoz/solartis-node#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
